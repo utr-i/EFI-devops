@@ -3,7 +3,7 @@ name: CI - Pruebas JS
 
 on:
   push:
-    branches: [ main ] # O la rama principal que uses
+    branches: [ main ]
 
 jobs:
   test:
